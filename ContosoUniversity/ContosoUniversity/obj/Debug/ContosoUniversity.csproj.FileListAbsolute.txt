@@ -55,3 +55,7 @@ C:\AlecsProjects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
 C:\AlecsProjects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 C:\AlecsProjects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 C:\AlecsProjects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\AlecsProjects\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\AlecsProjects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\AlecsProjects\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\AlecsProjects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
